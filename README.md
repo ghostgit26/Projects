@@ -9,7 +9,7 @@ This is a simple Todo application built using React and Vite. The application al
 - Update existing todo items
 - Delete todo items
 - Mark todo items as completed or pending
-- Todos stored and fetched through local storage
+- Todos stored and fetched through browser local storage
 
 ## Technologies Used
 
